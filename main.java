@@ -36,7 +36,7 @@ public class Main
                 else {
                     inventory.put(itemname, enterprice);
                     inventoryquantity.put(itemname, enterquantity);
-                    System.out.print("Item Added.");
+                    System.out.println("Item Added.");
                 }
             }
             else if (choice==2){
